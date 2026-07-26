@@ -1,0 +1,9 @@
+body {
+  margin: 100px auto;;
+  font-family: Arial, sans-serif;
+  background-color: #8c6464;
+}
+
+* {
+  box-sizing: border-box;
+}
